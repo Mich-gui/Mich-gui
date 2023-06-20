@@ -14,15 +14,18 @@ and learning new technologies and from others.
 
 ## My Projects
 ### Cyphers - Python
-Cyphers is a python application that encodes and decodes the users input by using Ceasars cypher principles. 
-It offers the user the option to save the coded message(s) to file for decoding later.
-(https://github.com/Mich-gui/Cypher_project.git)
+Cyphers is a python application that encodes and decodes the users input by using Caesars cypher principles. It offers the user the option to save the coded message(s) to file for decoding later. (https://github.com/Mich-gui/Cypher_project.git)
 
 ### Finance Calculator - Python
+This python program is designed to simulate two different financial
+calculations, bonds and investments. The user inputs the rate, value and period of time in months to determine projected cost per month for a  home loan repayment plan and the maturity of savings with a locked in interest rate, accumulated in 'simple' or 'compound' interest.
 
-
-### Flight cost - Python
+### Holiday cost - Python
 A package holiday program which calculates the itinerary for flights, hotel and car rental with options.
+
+### Calculator — Python
+A program that can perform mathematical operations such as addition, subtraction, multiplication, and division on two user input numbers. The program also has the ability to save the calculation to file for later recall. 
+
 
 ## My Skills
 Below are some of the skills and technologies I have experience with:
